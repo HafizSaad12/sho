@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap:https://shopify.onlinedemolink.com/sitemap.xml
+Sitemap:https://shopify.onlinedemolink.com/sitemap_1.xml
